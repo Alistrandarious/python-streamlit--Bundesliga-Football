@@ -1,0 +1,1240 @@
+{
+  "get": "players/topscorers",
+  "parameters": { "season": "2021", "league": "78" },
+  "errors": [],
+  "results": 20,
+  "paging": { "current": 0, "total": 1 },
+  "response": [
+    {
+      "player": {
+        "id": 521,
+        "name": "R. Lewandowski",
+        "firstname": "Robert",
+        "lastname": "Lewandowski",
+        "age": 34,
+        "birth": {
+          "date": "1988-08-21",
+          "place": "Warszawa",
+          "country": "Poland"
+        },
+        "nationality": "Poland",
+        "height": "185 cm",
+        "weight": "81 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/521.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2772,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.459375",
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 6, "bench": 0 },
+          "shots": { "total": 120, "on": 75 },
+          "goals": { "total": 34, "conceded": 0, "assists": 2, "saves": null },
+          "passes": { "total": 695, "key": 35, "accuracy": 16 },
+          "tackles": { "total": 10, "blocks": 2, "interceptions": 6 },
+          "duels": { "total": 307, "won": 139 },
+          "dribbles": { "attempts": 75, "success": 42, "past": null },
+          "fouls": { "drawn": 37, "committed": 21 },
+          "cards": { "yellow": 2, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 794,
+        "name": "P. Schick",
+        "firstname": "Patrik",
+        "lastname": "Schick",
+        "age": 26,
+        "birth": {
+          "date": "1996-01-24",
+          "place": "Praha",
+          "country": "Czech Republic"
+        },
+        "nationality": "Czech Republic",
+        "height": "191 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/794.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 24,
+            "minutes": 1927,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.240000",
+            "captain": false
+          },
+          "substitutes": { "in": 1, "out": 19, "bench": 1 },
+          "shots": { "total": 72, "on": 41 },
+          "goals": { "total": 22, "conceded": 0, "assists": 1, "saves": null },
+          "passes": { "total": 377, "key": 14, "accuracy": 10 },
+          "tackles": { "total": 5, "blocks": 1, "interceptions": 3 },
+          "duels": { "total": 217, "won": 91 },
+          "dribbles": { "attempts": 36, "success": 14, "past": null },
+          "fouls": { "drawn": 19, "committed": 12 },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1100,
+        "name": "E. Haaland",
+        "firstname": "Erling",
+        "lastname": "Braut Haaland",
+        "age": 22,
+        "birth": {
+          "date": "2000-07-21",
+          "place": "Leeds",
+          "country": "England"
+        },
+        "nationality": "Norway",
+        "height": "194 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1100.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 19,
+            "minutes": 1739,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.731818",
+            "captain": false
+          },
+          "substitutes": { "in": 3, "out": 5, "bench": 3 },
+          "shots": { "total": 64, "on": 36 },
+          "goals": { "total": 21, "conceded": 0, "assists": 7, "saves": null },
+          "passes": { "total": 426, "key": 22, "accuracy": 13 },
+          "tackles": { "total": 1, "blocks": 1, "interceptions": 1 },
+          "duels": { "total": 126, "won": 62 },
+          "dribbles": { "attempts": 23, "success": 13, "past": null },
+          "fouls": { "drawn": 12, "committed": 16 },
+          "cards": { "yellow": 3, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24811,
+        "name": "A. Modeste",
+        "firstname": "Anthony",
+        "lastname": "Modeste",
+        "age": 34,
+        "birth": {
+          "date": "1988-04-14",
+          "place": "Cannes",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "187 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24811.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 29,
+            "minutes": 2437,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.270000",
+            "captain": false
+          },
+          "substitutes": { "in": 1, "out": 13, "bench": 1 },
+          "shots": { "total": 91, "on": 39 },
+          "goals": { "total": 19, "conceded": 0, "assists": 3, "saves": null },
+          "passes": { "total": 413, "key": 18, "accuracy": 8 },
+          "tackles": { "total": 10, "blocks": 2, "interceptions": 4 },
+          "duels": { "total": 286, "won": 134 },
+          "dribbles": { "attempts": 13, "success": 5, "past": null },
+          "fouls": { "drawn": 31, "committed": 36 },
+          "cards": { "yellow": 3, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 269,
+        "name": "Christopher Nkunku",
+        "firstname": "Christopher",
+        "lastname": "Nkunku",
+        "age": 25,
+        "birth": {
+          "date": "1997-11-14",
+          "place": "Lagny-sur-Marne",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/269.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 29,
+            "minutes": 2565,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.609677",
+            "captain": false
+          },
+          "substitutes": { "in": 3, "out": 12, "bench": 3 },
+          "shots": { "total": 51, "on": 34 },
+          "goals": { "total": 18, "conceded": 0, "assists": 13, "saves": null },
+          "passes": { "total": 894, "key": 61, "accuracy": 23 },
+          "tackles": { "total": 21, "blocks": 2, "interceptions": 14 },
+          "duels": { "total": 322, "won": 160 },
+          "dribbles": { "attempts": 92, "success": 60, "past": null },
+          "fouls": { "drawn": 55, "committed": 29 },
+          "cards": { "yellow": 2, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 510,
+        "name": "Serge David Gnabry",
+        "firstname": "Serge David",
+        "lastname": "Gnabry",
+        "age": 27,
+        "birth": {
+          "date": "1995-07-14",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/510.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 23,
+            "minutes": 2038,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.331250",
+            "captain": false
+          },
+          "substitutes": { "in": 9, "out": 13, "bench": 9 },
+          "shots": { "total": 47, "on": 27 },
+          "goals": { "total": 13, "conceded": 0, "assists": 5, "saves": null },
+          "passes": { "total": 1123, "key": 46, "accuracy": 28 },
+          "tackles": { "total": 44, "blocks": null, "interceptions": 12 },
+          "duels": { "total": 266, "won": 133 },
+          "dribbles": { "attempts": 102, "success": 61, "past": null },
+          "fouls": { "drawn": 21, "committed": 11 },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 8598,
+        "name": "T. Awoniyi",
+        "firstname": "Taiwo Micheal",
+        "lastname": "Awoniyi",
+        "age": 25,
+        "birth": {
+          "date": "1997-08-12",
+          "place": "Ilorin",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "183 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/8598.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 27,
+            "minutes": 2045,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.872413",
+            "captain": false
+          },
+          "substitutes": { "in": 2, "out": 27, "bench": 2 },
+          "shots": { "total": 55, "on": 29 },
+          "goals": {
+            "total": 13,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": 419, "key": 24, "accuracy": 9 },
+          "tackles": { "total": 7, "blocks": 2, "interceptions": 2 },
+          "duels": { "total": 303, "won": 113 },
+          "dribbles": { "attempts": 60, "success": 34, "past": null },
+          "fouls": { "drawn": 22, "committed": 25 },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 277,
+        "name": "M. Diaby",
+        "firstname": "Moussa",
+        "lastname": "Diaby",
+        "age": 23,
+        "birth": {
+          "date": "1999-07-07",
+          "place": "Paris",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "170 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/277.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 30,
+            "minutes": 2593,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.026666",
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 14, "bench": 0 },
+          "shots": { "total": 41, "on": 25 },
+          "goals": { "total": 12, "conceded": 0, "assists": 11, "saves": null },
+          "passes": { "total": 840, "key": 54, "accuracy": 21 },
+          "tackles": { "total": 18, "blocks": null, "interceptions": 6 },
+          "duels": { "total": 281, "won": 98 },
+          "dribbles": { "attempts": 124, "success": 53, "past": null },
+          "fouls": { "drawn": 22, "committed": 36 },
+          "cards": { "yellow": 8, "yellowred": 1, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25926,
+        "name": "Jonathan Michael Burkardt",
+        "firstname": "Jonathan Michael",
+        "lastname": "Burkardt",
+        "age": 22,
+        "birth": {
+          "date": "2000-07-11",
+          "place": "Darmstadt",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25926.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2463,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.856250",
+            "captain": false
+          },
+          "substitutes": { "in": 2, "out": 22, "bench": 2 },
+          "shots": { "total": 57, "on": 33 },
+          "goals": { "total": 11, "conceded": 0, "assists": 3, "saves": null },
+          "passes": { "total": 525, "key": 30, "accuracy": 11 },
+          "tackles": { "total": 17, "blocks": 5, "interceptions": 8 },
+          "duels": { "total": 340, "won": 132 },
+          "dribbles": { "attempts": 75, "success": 39, "past": null },
+          "fouls": { "drawn": 41, "committed": 23 },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25635,
+        "name": "Jonas Hofmann",
+        "firstname": "Jonas",
+        "lastname": "Hofmann",
+        "age": 30,
+        "birth": {
+          "date": "1992-07-14",
+          "place": "Heidelberg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "176 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25635.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 22,
+            "minutes": 1912,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.291666",
+            "captain": false
+          },
+          "substitutes": { "in": 2, "out": 5, "bench": 2 },
+          "shots": { "total": 33, "on": 20 },
+          "goals": { "total": 10, "conceded": 0, "assists": 4, "saves": null },
+          "passes": { "total": 977, "key": 68, "accuracy": 32 },
+          "tackles": { "total": 23, "blocks": null, "interceptions": 9 },
+          "duels": { "total": 162, "won": 65 },
+          "dribbles": { "attempts": 40, "success": 19, "past": null },
+          "fouls": { "drawn": 19, "committed": 22 },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2063,
+        "name": "Andr\u00e9 Silva",
+        "firstname": "Andr\u00e9 Miguel",
+        "lastname": "Valente da Silva",
+        "age": 27,
+        "birth": {
+          "date": "1995-11-06",
+          "place": "Gondomar",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "185 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2063.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 22,
+            "minutes": 1920,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.720000",
+            "captain": false
+          },
+          "substitutes": { "in": 9, "out": 14, "bench": 10 },
+          "shots": { "total": 35, "on": 22 },
+          "goals": { "total": 10, "conceded": 0, "assists": 3, "saves": null },
+          "passes": { "total": 500, "key": 15, "accuracy": 12 },
+          "tackles": { "total": 13, "blocks": 2, "interceptions": 2 },
+          "duels": { "total": 248, "won": 93 },
+          "dribbles": { "attempts": 51, "success": 22, "past": null },
+          "fouls": { "drawn": 25, "committed": 18 },
+          "cards": { "yellow": 1, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25,
+        "name": "M. Reus",
+        "firstname": "Marco",
+        "lastname": "Reus",
+        "age": 33,
+        "birth": {
+          "date": "1989-05-31",
+          "place": "Dortmund",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "180 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 27,
+            "minutes": 2334,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.188888",
+            "captain": false
+          },
+          "substitutes": { "in": 0, "out": 10, "bench": 0 },
+          "shots": { "total": 40, "on": 22 },
+          "goals": { "total": 9, "conceded": 0, "assists": 11, "saves": null },
+          "passes": { "total": 1109, "key": 49, "accuracy": 33 },
+          "tackles": { "total": 43, "blocks": 6, "interceptions": 11 },
+          "duels": { "total": 250, "won": 119 },
+          "dribbles": { "attempts": 62, "success": 28, "past": null },
+          "fouls": { "drawn": 42, "committed": 21 },
+          "cards": { "yellow": 2, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24861,
+        "name": "Sebastian Polter",
+        "firstname": "Sebastian",
+        "lastname": "Polter",
+        "age": 31,
+        "birth": {
+          "date": "1991-04-01",
+          "place": "Wilhelmshaven",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192 cm",
+        "weight": "94 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24861.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 176,
+            "name": "VfL BOCHUM",
+            "logo": "https://media.api-sports.io/football/teams/176.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 25,
+            "minutes": 2190,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.855172",
+            "captain": false
+          },
+          "substitutes": { "in": 6, "out": 13, "bench": 6 },
+          "shots": { "total": 41, "on": 18 },
+          "goals": { "total": 9, "conceded": 0, "assists": 1, "saves": null },
+          "passes": { "total": 452, "key": 28, "accuracy": 8 },
+          "tackles": { "total": 8, "blocks": 5, "interceptions": 2 },
+          "duels": { "total": 342, "won": 148 },
+          "dribbles": { "attempts": 13, "success": 4, "past": null },
+          "fouls": { "drawn": 35, "committed": 65 },
+          "cards": { "yellow": 2, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 26248,
+        "name": "Vincenzo Grifo",
+        "firstname": "Vincenzo",
+        "lastname": "Grifo",
+        "age": 29,
+        "birth": {
+          "date": "1993-04-07",
+          "place": "Pforzheim",
+          "country": "Germany"
+        },
+        "nationality": "Italy",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/26248.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 31,
+            "minutes": 2612,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.350000",
+            "captain": false
+          },
+          "substitutes": { "in": 1, "out": 18, "bench": 1 },
+          "shots": { "total": 46, "on": 26 },
+          "goals": { "total": 9, "conceded": 0, "assists": 7, "saves": null },
+          "passes": { "total": 1152, "key": 61, "accuracy": 28 },
+          "tackles": { "total": 27, "blocks": 2, "interceptions": 12 },
+          "duels": { "total": 199, "won": 105 },
+          "dribbles": { "attempts": 59, "success": 35, "past": null },
+          "fouls": { "drawn": 26, "committed": 10 },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1827,
+        "name": "B. Hrgota",
+        "firstname": "Branimir",
+        "lastname": "Hrgota",
+        "age": 29,
+        "birth": {
+          "date": "1993-01-12",
+          "place": "Zenica",
+          "country": "Bosnia and Herzegovina"
+        },
+        "nationality": "Sweden",
+        "height": "185 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1827.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 178,
+            "name": "SpVgg Greuther Furth",
+            "logo": "https://media.api-sports.io/football/teams/178.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 31,
+            "minutes": 2609,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.784375",
+            "captain": false
+          },
+          "substitutes": { "in": 1, "out": 15, "bench": 1 },
+          "shots": { "total": 44, "on": 26 },
+          "goals": { "total": 9, "conceded": 0, "assists": 4, "saves": null },
+          "passes": { "total": 617, "key": 31, "accuracy": 14 },
+          "tackles": { "total": 45, "blocks": 1, "interceptions": 10 },
+          "duels": { "total": 401, "won": 150 },
+          "dribbles": { "attempts": 81, "success": 32, "past": null },
+          "fouls": { "drawn": 58, "committed": 52 },
+          "cards": { "yellow": 4, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 421,
+        "name": "B. Embolo",
+        "firstname": "Breel Donald",
+        "lastname": "Embolo",
+        "age": 25,
+        "birth": {
+          "date": "1997-02-14",
+          "place": "Yaound\u00e9",
+          "country": "Cameroon"
+        },
+        "nationality": "Switzerland",
+        "height": "187 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/421.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 22,
+            "minutes": 2013,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.988461",
+            "captain": false
+          },
+          "substitutes": { "in": 5, "out": 5, "bench": 5 },
+          "shots": { "total": 33, "on": 18 },
+          "goals": { "total": 8, "conceded": 0, "assists": 3, "saves": null },
+          "passes": { "total": 502, "key": 33, "accuracy": 15 },
+          "tackles": { "total": 15, "blocks": 1, "interceptions": 6 },
+          "duels": { "total": 345, "won": 150 },
+          "dribbles": { "attempts": 72, "success": 39, "past": null },
+          "fouls": { "drawn": 62, "committed": 38 },
+          "cards": { "yellow": 3, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 24968,
+        "name": "M. Okugawa",
+        "firstname": "Masaya",
+        "lastname": "Okugawa",
+        "age": 26,
+        "birth": { "date": "1996-04-14", "place": "Koka", "country": "Japan" },
+        "nationality": "Japan",
+        "height": "177 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/24968.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 188,
+            "name": "Arminia Bielefeld",
+            "logo": "https://media.api-sports.io/football/teams/188.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 28,
+            "minutes": 2378,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.680645",
+            "captain": false
+          },
+          "substitutes": { "in": 3, "out": 16, "bench": 4 },
+          "shots": { "total": 25, "on": 14 },
+          "goals": { "total": 8, "conceded": 0, "assists": 1, "saves": null },
+          "passes": { "total": 428, "key": 24, "accuracy": 8 },
+          "tackles": { "total": 44, "blocks": 1, "interceptions": 20 },
+          "duels": { "total": 259, "won": 103 },
+          "dribbles": { "attempts": 50, "success": 19, "past": null },
+          "fouls": { "drawn": 20, "committed": 21 },
+          "cards": { "yellow": 0, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19461,
+        "name": "L. Nmecha",
+        "firstname": "Lukas Okechukwu",
+        "lastname": "Nmecha",
+        "age": 24,
+        "birth": {
+          "date": "1998-12-14",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19461.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 16,
+            "minutes": 1462,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.808695",
+            "captain": false
+          },
+          "substitutes": { "in": 7, "out": 9, "bench": 7 },
+          "shots": { "total": 43, "on": 22 },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": 343, "key": 13, "accuracy": 10 },
+          "tackles": { "total": 12, "blocks": null, "interceptions": 5 },
+          "duels": { "total": 184, "won": 86 },
+          "dribbles": { "attempts": 32, "success": 20, "past": null },
+          "fouls": { "drawn": 25, "committed": 27 },
+          "cards": { "yellow": 3, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25297,
+        "name": "M. Gregoritsch",
+        "firstname": "Michael",
+        "lastname": "Gregoritsch",
+        "age": 28,
+        "birth": {
+          "date": "1994-04-18",
+          "place": "Graz",
+          "country": "Austria"
+        },
+        "nationality": "Austria",
+        "height": "193 cm",
+        "weight": "91 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25297.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 14,
+            "minutes": 1290,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.931818",
+            "captain": false
+          },
+          "substitutes": { "in": 9, "out": 8, "bench": 15 },
+          "shots": { "total": 37, "on": 17 },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": { "total": 348, "key": 7, "accuracy": 9 },
+          "tackles": { "total": 17, "blocks": 2, "interceptions": 5 },
+          "duels": { "total": 199, "won": 105 },
+          "dribbles": { "attempts": 16, "success": 5, "past": null },
+          "fouls": { "drawn": 11, "committed": 16 },
+          "cards": { "yellow": 3, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25646,
+        "name": "Alassane Alexandre Pl\u00e9a",
+        "firstname": "Alassane Alexandre",
+        "lastname": "Pl\u00e9a",
+        "age": 29,
+        "birth": {
+          "date": "1993-03-10",
+          "place": "Lille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "181 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png"
+          },
+          "league": {
+            "id": 78,
+            "name": "Bundesliga 1",
+            "country": "Germany",
+            "logo": "https://media.api-sports.io/football/leagues/78.png",
+            "flag": "https://media.api-sports.io/flags/de.svg",
+            "season": 2021
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 22,
+            "minutes": 1895,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.121428",
+            "captain": false
+          },
+          "substitutes": { "in": 9, "out": 11, "bench": 10 },
+          "shots": { "total": 39, "on": 23 },
+          "goals": { "total": 8, "conceded": 0, "assists": 6, "saves": null },
+          "passes": { "total": 656, "key": 50, "accuracy": 17 },
+          "tackles": { "total": 16, "blocks": null, "interceptions": 4 },
+          "duels": { "total": 191, "won": 79 },
+          "dribbles": { "attempts": 58, "success": 27, "past": null },
+          "fouls": { "drawn": 22, "committed": 18 },
+          "cards": { "yellow": 4, "yellowred": 0, "red": 0 },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
